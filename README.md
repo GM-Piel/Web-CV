@@ -6,6 +6,6 @@ Uma forma de praticar conteudos passados em aulas e de se aprofundar no conteudo
 <h2>A Solução</h2>
 Criação de um currículo utlizando o conhecimento adquirido durante as aulas e pesquisas para buscar o aprofundamento nesses conhecimentos.
 <h2>Ferramentas</h2>
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
